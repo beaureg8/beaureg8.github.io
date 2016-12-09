@@ -238,21 +238,21 @@ figure.Painting-Examples {
 	padding-bottom: 6px;
 	border: 5px solid #000000;
 }
-img.Rust1 {
+img.Painting1 {
 	width: 32%;
 	height: auto;
 	margin: 2px;
 	border: 2px solid #000000;
 }
 
-img.Rust2 {
+img.Painting2 {
 	width: 32%;
 	height: auto;
 	margin: 2px;
 	border: 1px solid #000000;
 }
 
-img.Rust3 {
+img.Painting3 {
 	width: 32%;
 	height: auto;
 	margin: 2px;
@@ -299,17 +299,17 @@ button {
 		margin: 0 auto;
 		flex: 1 1 0;
 	}
-	img.Rust1 {
+	img.Painting1 {
 		width: 95%;
 		height: auto;
 		margin: 5px auto;
 	}
-	img.Rust2 {
+	img.Painting2 {
 		width: 95%;
 		height: auto;
 		margin: 5px auto;
 	}
-	img.Rust3 {
+	img.Painting3 {
 		width: 95%;
 		height: auto;
 		margin: 5px auto;
